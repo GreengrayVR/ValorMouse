@@ -1,6 +1,6 @@
 # ValorMouse - Keyboard Mouse Emulator
 
-![ValorMouse Logo](logo.jpeg)
+![ValorMouse Logo](icon.jpeg)
 
 ValorMouse is a lightweight Windows utility that lets you control your mouse cursor and clicks using keyboard shortcuts. Perfect for situations where taking your hands off the keyboard isn't an option.
 
